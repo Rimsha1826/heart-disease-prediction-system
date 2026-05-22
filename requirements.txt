@@ -1,0 +1,46 @@
+# Heart Disease Prediction System - Backend Dependencies
+
+# Core Framework
+Flask>=3.0.0
+Flask-CORS>=4.0.0
+
+# Deep Learning & AI
+tensorflow>=2.15.0,<3.0.0
+numpy>=2.1.0
+scikit-learn>=1.5.2
+
+# Image Processing
+opencv-python>=4.8.0
+Pillow>=12.0.0
+
+# PDF Generation
+reportlab>=4.0.0
+
+# API & External Services
+google-generativeai>=0.8.0
+requests>=2.31.0
+
+# Environment & Configuration
+python-dotenv>=1.0.0
+python-multipart>=0.0.6
+
+# Development & Utilities
+werkzeug>=3.0.0
+
+# Optional: Database Support (if you add database functionality)
+# SQLAlchemy==2.0.21
+# psycopg2-binary==2.9.7  # For PostgreSQL
+# pymongo==4.5.0          # For MongoDB
+
+# Optional: Deployment
+# gunicorn==21.2.0
+# waitress==2.1.2
+
+# Optional: Testing & Debugging
+# pytest==7.4.2
+# pytest-cov==4.1.0
+# black==23.9.1
+# pylint==2.17.5
+
+# Data Handling
+scipy>=1.17.0

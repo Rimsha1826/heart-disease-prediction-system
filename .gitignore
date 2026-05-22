@@ -1,0 +1,226 @@
+# ==========================================
+# Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ==========================================
+# Virtual Environments
+# ==========================================
+venv/
+env/
+.venv
+.env
+.ENV
+
+# ==========================================
+# Node.js & NPM
+# ==========================================
+node_modules/
+npm-debug.log
+npm-debug.log.*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# ==========================================
+# IDEs & Editors
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.atom/
+.project
+.pydevproject
+.settings/
+*.iml
+.gradle
+.classpath
+
+# ==========================================
+# IDE Extensions
+# ==========================================
+.history/
+.ionide/
+*.code-workspace
+
+# ==========================================
+# Backend - Flask Specific
+# ==========================================
+instance/
+.webassets-cache
+.flask_session
+uploads/
+temp/
+tmp/
+
+# ==========================================
+# Frontend - React Native/Expo Specific
+# ==========================================
+.expo/
+.expo-shared/
+dist/
+npm-debug.*
+.junk/
+cover/
+.DS_Store
+yarn.lock
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ==========================================
+# Keras & Model Files
+# ==========================================
+*.h5
+*.hdf5
+*.checkpoint
+*.ckpt*
+*.pb
+*.keras
+# Keep the actual model files below (uncomment to prevent accidental upload)
+# best_model.keras
+# mi_binary_model.keras
+# sttc_best.keras
+
+# ==========================================
+# Database Files
+# ==========================================
+*.db
+*.sqlite
+*.sqlite3
+*.sqlitea
+*.postgres_db
+
+# ==========================================
+# Logs
+# ==========================================
+logs/
+*.log
+*.logs
+
+# ==========================================
+# OS Specific
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# Sensitive Information
+# ==========================================
+.env
+.env.local
+.env.*.local
+secrets.json
+*.pem
+*.key
+*.crt
+config.local.json
+credentials.json
+
+# ==========================================
+# Temporary Files
+# ==========================================
+*.tmp
+*.bak
+*.backup
+*.swp
+*.swo
+*~
+.~*
+*.temp
+
+# ==========================================
+# Build & Distribution
+# ==========================================
+build/
+dist/
+.egg-info/
+*.egg
+*.whl
+*.tar.gz
+*.zip
+
+# ==========================================
+# Docker
+# ==========================================
+.dockerignore
+docker-compose.override.yml
+
+# ==========================================
+# Testing
+# ==========================================
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+.hypothesis/
+.nose*
+*.cover
+
+# ==========================================
+# Project Specific
+# ==========================================
+# Temporary uploads
+uploads/*
+!uploads/.gitkeep
+
+# Temporary image processing
+temp_images/
+cache/
+
+# Analysis outputs
+*.csv
+output/
+results/
+
+# Documentation builds
+docs/_build/
+site/
+
+# ==========================================
+# Comments
+# ==========================================
+# Keep commented model files for safety
+# best_model.keras
+# mi_binary_model.keras
+# sttc_best.keras
