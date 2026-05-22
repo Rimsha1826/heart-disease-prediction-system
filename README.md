@@ -25,8 +25,6 @@
 - [Screenshots](#screenshots)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
 
 ---
 
@@ -704,41 +702,6 @@ Found a bug? Please report it by:
 2. Providing a clear description of the bug
 3. Including steps to reproduce
 4. Adding any relevant screenshots or logs
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-### MIT License Summary
-- ✅ **Allowed**: Commercial use, modification, distribution, private use
-- ❌ **Forbidden**: Liability, warranty
-- 📝 **Requirement**: License and copyright notice
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-- 🎓 Final Year Student, [Your University]
-- 📧 Email: your.email@example.com
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@your-username](https://github.com/your-username)
-- 🌐 Portfolio: [Your Portfolio Website](https://yourportfolio.com)
-
-### Project Advisors
-- **Dr. Advisor Name** - Project Supervisor
-- **Dr. Mentor Name** - Technical Mentor
-
----
-
-## 📞 Support & Contact
-
-- **Documentation**: Check the [docs/](docs/) folder for detailed guides
-- **Issues**: Report bugs and request features on [GitHub Issues](https://github.com/your-username/heart-disease-prediction/issues)
-- **Discussions**: Join our [GitHub Discussions](https://github.com/your-username/heart-disease-prediction/discussions)
-- **Email**: your.email@example.com
 
 ---
 
